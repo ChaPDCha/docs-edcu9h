@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ChaPDCha.github.io/docs-edcu9h/sitemap.xml
